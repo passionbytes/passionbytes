@@ -16,7 +16,7 @@
 </div>
 
 - 🔭 Working on **AWS, GCP, Python, Spark and anything on data driven **
-- 🌱 Learning about **LangChain Framework for LLM**
+- 🌱 Mastery in  **LangChain Framework for LLM, Llama, OpenAI, GPTs, Agentic RAGS**
 - 💬 Main languages: **Python, Scala, Java**
 - 📫 How to reach me: **ravishankar.nair@gmail.com**
 - 🚩 Interested in Data Engineer project
